@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7751f80b0e7125046a6c0aee69e68e52, type: 3}
+  m_Name: JinChuangYao
+  m_EditorClassIdentifier: 
+  defId: 2
+  itemName: "\u91D1\u75AE\u836F"
+  name_pinyin: JinChuangYao
+  quality: 2
+  icon:
+    m_AssetGUID: 39bb8e77e5972bb40aad6a2a2263e664
+    m_SubObjectName: ui_TY_lvseshuzi_01
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 7ff9ae6b3b1db124f980f762281a7580
+    m_EditorAssetChanged: 1
+  statList:
+  - stat: 0
+    maxValue: 200
+    minValue: 200
+    isPercent: 0
+  discription: "\u6C5F\u6E56\u4E2D\u6700\u7545\u9500\u7684\u7597\u4F24\u836F\uFF0C\u5177\u6709\u4E0D\u9519\u4E86\u7597\u4F24\u6548\u679C"

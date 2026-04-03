@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 493b2e457f31e054db10ce0c0937bbdf, type: 3}
+  m_Name: TaiJiJian
+  m_EditorClassIdentifier: 
+  defId: 1
+  itemName: "\u592A\u6781\u5251"
+  name_pinyin: TaiJiJian
+  quality: 5
+  icon:
+    m_AssetGUID: 39bb8e77e5972bb40aad6a2a2263e664
+    m_SubObjectName: ui_TY_lvseshuzi_00
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 00d1670117f90364baae434966e57d1a
+    m_EditorAssetChanged: 1
+  statList:
+  - stat: 2
+    maxValue: 500
+    minValue: 450
+    isPercent: 0
+  - stat: 5
+    maxValue: 20
+    minValue: 20
+    isPercent: 1
+  - stat: 6
+    maxValue: 80
+    minValue: 80
+    isPercent: 1
+  discription: "\u6B66\u5F53\u6D3E\u9547\u6D3E\u4E4B\u5B9D\uFF0C\u53EA\u6709\u6B66\u5F53\u638C\u95E8\u624D\u6709\u8D44\u683C\u6301\u6709"
+  combatEffectDatas: []

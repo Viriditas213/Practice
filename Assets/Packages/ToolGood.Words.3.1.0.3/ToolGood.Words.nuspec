@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ToolGood.Words</id>
+    <version>3.1.0.3</version>
+    <authors>ToolGood</authors>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <projectUrl>https://github.com/toolgood/ToolGood.Words</projectUrl>
+    <description>一款高性能敏感词(非法词/脏字)检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。</description>
+    <copyright>Copyright 2017-2025 ToolGood</copyright>
+    <tags>word-filter stringsearch wordssearch pinyin textfilter wordfilter text-filter sensitive-word-filter aho-corasick string-matching text-matching text-search trietree filter textsearch</tags>
+    <repository type="git" commit="43adc0eeb8cb8df647ce6433c8814980add2317b" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+      <group targetFramework="net9.0" />
+      <group targetFramework="net10.0" />
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+</package>
